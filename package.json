@@ -1,0 +1,17 @@
+{
+  "name": "youtube-node-mongo2",
+  "version": "1.0.0",
+  "description": "A test repo to configure nodejs and mongodb",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0",
+    "mongoose": "^8.6.2"
+  }
+}
